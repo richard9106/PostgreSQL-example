@@ -1,0 +1,13 @@
+                                                                               json_agg                                                                                
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ [{"trackid":422,"name":"I Want It All","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":241684,"bytes":7876564,"unitprice":0.99},          +
+  {"trackid":424,"name":"Innuendo","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":387761,"bytes":12664591,"unitprice":0.99},              +
+  {"trackid":426,"name":"Breakthru","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":249234,"bytes":8150479,"unitprice":0.99},              +
+  {"trackid":428,"name":"Headlong","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":273057,"bytes":8921404,"unitprice":0.99},               +
+  {"trackid":429,"name":"The Miracle","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":294974,"bytes":9671923,"unitprice":0.99},            +
+  {"trackid":430,"name":"I'm Going Slightly Mad","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":248032,"bytes":8192339,"unitprice":0.99}, +
+  {"trackid":431,"name":"The Invisible Man","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":238994,"bytes":7920353,"unitprice":0.99},      +
+  {"trackid":434,"name":"The Show Must Go On","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":263784,"bytes":8526760,"unitprice":0.99},    +
+  {"trackid":435,"name":"One Vision","albumid":36,"mediatypeid":1,"genreid":1,"composer":"Queen","milliseconds":242599,"bytes":7936928,"unitprice":0.99}]
+(1 fila)
+
